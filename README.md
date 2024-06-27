@@ -2,9 +2,6 @@ Hi 👋 My name is Jordan Michalak
 =================================
 ### Frontend developer
 
-* 🌍  I live in poznan
-* 💻  I specialize in angular
-
 <br>
 
 ### Contact me with
