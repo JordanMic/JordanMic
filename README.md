@@ -1,6 +1,7 @@
 Hi 👋 My name is Jordan Michalak
 =================================
 ### Frontend developer
+<p align="left">Passionate frontend developer with several years of experience in creating dynamic and responsive web applications. I specialize in JavaScript, TypeScript, and the Angular framework. 🌟 I am constantly striving to expand my knowledge and improve my skills. I love working on new challenges and creating software that makes a difference. I am open to collaboration and new projects.</p>
 
 <br>
 
